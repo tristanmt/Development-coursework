@@ -47,19 +47,13 @@ The core issue is finding the right balance between giving patients the right to
 
 Following this approval pathway we can use a case study to understand the process from a basic practical point of view. The case study follows how an application to market a new drug is processed and what statistics have been collected. 
 
-Desmopressin- a new nasal spray drug proposed to be added to market. This drug would be used to treat patients with nocturia, the need to wake at night to urinate. Here is a summary of the clinical trials sent to the FDA for approval:
-<br> 
-
-| Number of Trials | Info from 2 trials was submitted to the FDA in the Noctiva NDA |
-| Design | Randomised, Placebo |
-| Primary Endpoint(s)| 1. # episodes of nocturia after 12 wks compared to baseline 2. % patients with a ≥50% reduction in the number of times that they woke per night to void their bladders|
-| Inclusion Criteria | Age > 50 with 2 or more episodes of nocturia per night |
-| Exclusion Criteria | Uncontrolled diabetes mellitus, congestive heart failure, polydipsia, uncontrolled hypertension, nephrotic syndrome, peripheral edema, history of urinary retention, neurogenic detrusor overactivity, obstructive sleep apnea, loop diuretics, glucocorticoids, and severe lower urinary tract symptoms due to benign prostatic hypertrophy, overactive bladder, or severe stress urinary incontinence |
-| Demographics of participants | 1707 patients with nocturia due to nocturnal polyuria (waking 2+ times per night to void their bladders)
-Mean age 66
-57% male
-78% Caucasian
-60% had one or more causes identified for their nocturia |
-
+| Clinical Trial Feature | Details Submitted to FDA (Noctiva NDA) |
+| :--- | :--- |
+| **Number of Trials** | Data from 2 randomized trials submitted |
+| **Study Design** | Randomized, Placebo-Controlled |
+| **Primary Endpoints** | 1. Change in number of nocturia episodes after 12 weeks vs. baseline<br>2. Percentage of patients with a ≥50% reduction in nightly voiding episodes |
+| **Inclusion Criteria** |  Age > 50 years<br> History of 2 or more episodes of nocturia per night |
+| **Exclusion Criteria** |  Uncontrolled diabetes mellitus or hypertension<br> Congestive heart failure, nephrotic syndrome, or peripheral edema<br> Polydipsia or obstructive sleep apnea<br> History of urinary retention or neurogenic detrusor overactivity<br> Severe lower urinary tract symptoms (BPH, overactive bladder, severe stress incontinence)<br> Concomitant loop diuretics or glucocorticoids |
+| **Participant Demographics** |  **Total:** 1,707 patients with nocturnal polyuria (waking 2+ times/night)<br> **Mean Age:** 66 years<br> **Sex:** 57% Male<br> **Race:** 78% Caucasian<br> **Comorbidities:** 60% had one or more underlying causes identified |
 
 
