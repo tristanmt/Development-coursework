@@ -1,4 +1,4 @@
-# Development-coursework
+
 # Professional Development & Online Coursework
 
 This repository contains my study notes, graphics, and practical takeaways from coursework completed via edX (HarvardX and EPFLx) to complement my Chemistry background.
@@ -12,6 +12,7 @@ This repository contains my study notes, graphics, and practical takeaways from 
 | **Prescription Drug Regulation** | HarvardX | FDA Approval Pipelines,Expanded Access Frameworks, Biologics and Biosimilars |
 | **Introduction to Drug Discovery** | EPFLx | Computational Docking, Biophysical Methods (NMR, SPR), Lead Optimization |
 | **Principles of Biochemistry** | HarvardX | Protein Structure, Enzyme Kinetics, Cellular Metabolic Pathways |
+
 ---
 
 ## 💡 Key Highlights & Portfolio Samples
