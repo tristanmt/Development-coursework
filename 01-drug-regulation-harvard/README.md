@@ -10,10 +10,10 @@ The six module course provided an introduction to the pharmaceutical market and 
 
 
 ## Focus Areas of Activities/Engagements
-  **FDA Approval Pathways:** Phase I–IV clinical trial requirements, NDA/BLA submissions, and safety monitoring.
-  **Patent & Regulatory Exclusivity:** Hatch-Waxman Act, generic drug entry, and IP protections.
-  **Expanded Access Policy:** Rules governing compassionate use for unapproved investigational drugs.
-  **Pharmaceutical Economics:** Drug pricing mechanisms, market access, and reimbursement dynamics.
+ * **FDA Approval Pathways:** Phase I–IV clinical trial requirements, NDA/BLA submissions, and safety monitoring.
+ * **Patent & Regulatory Exclusivity:** Hatch-Waxman Act, generic drug entry, and IP protections.
+ * **Expanded Access Policy:** Rules governing compassionate use for unapproved investigational drugs.
+ * **Pharmaceutical Economics:** Drug pricing mechanisms, market access, and reimbursement dynamics.
 
 
 <br>
@@ -44,4 +44,22 @@ The core issue is finding the right balance between giving patients the right to
 <br>
 ## FDA Approval Pathways in Comparison to Other Methods
 ![General Pathway of FDA approval required for any drug in the US](./approval-path.png)
+
+Following this approval pathway we can use a case study to understand the process from a basic practical point of view. The case study follows how an application to market a new drug is processed and what statistics have been collected. 
+
+Desmopressin- a new nasal spray drug proposed to be added to market. This drug would be used to treat patients with nocturia, the need to wake at night to urinate. Here is a summary of the clinical trials sent to the FDA for approval:
+<br> 
+
+| Number of Trials | Info from 2 trials was submitted to the FDA in the Noctiva NDA |
+| Design | Randomised, Placebo |
+| Primary Endpoint(s)| 1. # episodes of nocturia after 12 wks compared to baseline 2. % patients with a ≥50% reduction in the number of times that they woke per night to void their bladders|
+| Inclusion Criteria | Age > 50 with 2 or more episodes of nocturia per night |
+| Exclusion Criteria | Uncontrolled diabetes mellitus, congestive heart failure, polydipsia, uncontrolled hypertension, nephrotic syndrome, peripheral edema, history of urinary retention, neurogenic detrusor overactivity, obstructive sleep apnea, loop diuretics, glucocorticoids, and severe lower urinary tract symptoms due to benign prostatic hypertrophy, overactive bladder, or severe stress urinary incontinence |
+| Demographics of participants | 1707 patients with nocturia due to nocturnal polyuria (waking 2+ times per night to void their bladders)
+Mean age 66
+57% male
+78% Caucasian
+60% had one or more causes identified for their nocturia |
+
+
 
