@@ -44,9 +44,9 @@ Following this approval pathway we can use a case study to understand the proces
 
 | Clinical Trial Feature | Details Submitted to FDA (Noctiva NDA) |
 | :--- | :--- |
-| **Number of Trials** | Data from 2 randomized trials submitted |
-| **Study Design** | Randomized, Placebo-Controlled |
-| **Primary Endpoints** | 1. Change in number of nocturia episodes after 12 weeks vs. baseline<br>2. Percentage of patients with a ≥50% reduction in nightly voiding episodes |
+| **Number of Trials** | Data from 2 randomised trials submitted |
+| **Study Design** | Randomised, Placebo-Controlled |
+| **Primary Endpoints** | 1. Change in number of nocturia episodes after 12 weeks vs. baseline<br>2. Percentage of patients with a ≥50% reduction in nightly episodes |
 | **Inclusion Criteria** | • Age > 50 years<br>• History of 2 or more episodes of nocturia per night |
 | **Exclusion Criteria** | • Uncontrolled diabetes mellitus or hypertension<br>• Congestive heart failure, nephrotic syndrome, or peripheral edema<br>• Polydipsia or obstructive sleep apnea<br>• History of urinary retention or neurogenic detrusor overactivity<br>• Severe lower urinary tract symptoms (BPH, overactive bladder, severe stress incontinence)<br>• Concomitant loop diuretics or glucocorticoids |
 | **Participant Demographics** | • **Total:** 1,707 patients with nocturnal polyuria (waking 2+ times/night)<br>• **Mean Age:** 66 years<br>• **Sex:** 57% Male<br>• **Race:** 78% Caucasian<br>• **Comorbidities:** 60% had one or more underlying causes identified |
