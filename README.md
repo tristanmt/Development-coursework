@@ -5,7 +5,7 @@ This repository contains my study notes, graphics, and practical takeaways from 
 
 ---
 
-## 📚 Completed Courses in Order
+## 📚 Courses in Order of Completion
 
 | Course Title | Institution | Core Focus Areas |
 | :--- | :--- | :--- |
