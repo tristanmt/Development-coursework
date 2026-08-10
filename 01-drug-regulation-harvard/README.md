@@ -62,7 +62,7 @@ Following this approval pathway we can use a case study to understand the proces
 
 # Summary of Clinical Trial Findings (FDA Submission)
 
-📈 Primary Benefits & Efficacy
+Primary Benefits & Efficacy
 
 | Metric | Findings & Group Comparison |
 | :--- | :--- |
@@ -73,7 +73,7 @@ Following this approval pathway we can use a case study to understand the proces
 
 <br>
 
-⚠️ Safety Outcomes & Identified Risks
+Safety Outcomes & Identified Risks
 
 | Risk / Safety Parameter | Observed Clinical Outcomes |
 | :--- | :--- |
@@ -82,6 +82,7 @@ Following this approval pathway we can use a case study to understand the proces
 | **Mortality / Deaths** | • **High-Dose Desmopressin:** 5 deaths (3 unrelated, 2 unclear relationship)<br>• **Placebo:** 0 deaths |
 
 <br>
+
 Regulatory Analysis & FDA Non-Approval Rationale
 
 Despite demonstrating a statistically significant reduction in nightly voiding episodes at the higher dose, the benefit-risk profile for this desmopressin formulation presents severe safety barriers under FDA regulatory standards. 
@@ -106,7 +107,7 @@ Passed in 2011, the Pharmaceutical Market Restructuring Act (AMNOG) introduced f
 3. **Value-Based Price Negotiation:** If added benefit is proven, negotiations with the Statutory Health Insurance (SHI) umbrella organization determine a discounted price based on the comparator baseline. If no added benefit is demonstrated, the drug is assigned to a low-cost reference price group.
 4. **Market Opt-Out Rights:** Manufacturers can withdraw the drug prior to publishing negotiated prices to avoid setting a low international reference price for other global markets.
 
-[German Process of Drug Approval](./German-process.png)
+[German Process of Drug Approval](./german-process.png)
 
 Discussion: Why Early Market Exit Fears Did Not Materialize
 -
