@@ -17,7 +17,7 @@ The six module course provided an introduction to the pharmaceutical market and 
 <br>
 <br>
 
-# Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients #
+# Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients 
 
 As a policymaker, the central challenge in designing an Expanded Access (Compassionate Use) program is balancing rapid relief for terminally or severely ill patients with the need to generate robust, scientific evidence through randomised clinical trials (RCTs). To strike this balance, I propose a regulatory framework based on four core features:
 
@@ -41,7 +41,7 @@ The core issue is finding the right balance between giving patients the right to
 <br>
 <br>
 
-## FDA Approval Pathway Case Study: Desmopressin ##
+# FDA Approval Pathway Case Study: Desmopressin 
 ![General Pathway of FDA approval required for any drug in the US](./approval-path.png)
 
 Following this approval pathway we can use a case study to understand the process from a basic practical point of view. The case study follows how an application to market a new drug is processed and what statistics have been collected and submitted for approval. Here are the principle details that have been submitted in the case study for the approval of a new nasal spray formulation of desmopressin. A drug used to treat patients with nocturne, the need to wake at night to urinate. 
