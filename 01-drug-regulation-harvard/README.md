@@ -60,7 +60,8 @@ Following this approval pathway we can use a case study to understand the proces
 
 <br>
 
-# Summary of Clinical Trial Findings (FDA Submission)
+Summary of Clinical Trial Findings (FDA Submission)
+-
 
 Primary Benefits & Efficacy
 
@@ -96,7 +97,8 @@ Consequently, given that nocturia is a non-life-threatening quality-of-life cond
 <br>
 <br>
 
-## Practical Takeaway: International Drug Pricing Reform (Germany's AMNOG System) ##
+Practical Takeaway: International Drug Pricing Reform (Germany's AMNOG System) 
+-
 
 > **Case Focus:** Evaluating Germany’s AMNOG framework (value-based pricing via IQWiG and G-BA) as a potential model for US prescription drug pricing reform.
 
