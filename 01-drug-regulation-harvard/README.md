@@ -139,6 +139,7 @@ Forum Post: Drug Pricing Reform – The German AMNOG System
 <br>
 
 # Progress Page as Evidence of Completion
-
-![Progress Page](./progress-page.png)
+<br>
+<table>
+![Progress Page](./progress-page-2.png)(./progress-page-3.png)
 
