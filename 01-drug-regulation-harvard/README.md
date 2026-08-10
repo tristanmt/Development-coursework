@@ -45,11 +45,8 @@ The core issue is finding the right balance between giving patients the right to
 ## FDA Approval Pathways in Comparison to Other Methods
 ![General Pathway of FDA approval required for any drug in the US](./approval-path.png)
 
-Following this approval pathway we can use a case study to understand the process from a basic practical point of view. The case study follows how an application to market a new drug is processed and what statistics have been collected. 
-
-
-
-
+Following this approval pathway we can use a case study to understand the process from a basic practical point of view. The case study follows how an application to market a new drug is processed and what statistics have been collected and submitted for approval. Here are the principle details that have been submitted in the case study for the approval of a new nasal spray formulation of desmopressin. A drug used to treat patients with nocturne, the need to wake at night to urinate. 
+<br>
 
 | Clinical Trial Feature | Details Submitted to FDA (Noctiva NDA) |
 | :--- | :--- |
