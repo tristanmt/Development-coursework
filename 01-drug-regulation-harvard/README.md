@@ -122,7 +122,7 @@ While sponsors fear that a lower negotiated German price will depress internatio
 
 Forum Post: Drug Pricing Reform – The German AMNOG System
 -
-***Comparison with the US System***
+**Comparison with the US System**
 * **Pricing Autonomy vs. Regulation:** In the US, drug manufacturers freely set list prices and negotiate private, fragmented rebates with individual insurers and Pharmacy Benefit Managers (PBMs). In Germany, while manufacturers can set the initial price freely during the first year, AMNOG mandates a formal comparative clinical assessment to determine price caps or negotiated rates thereafter.
 * **Value Assessment Framework:** Germany utilizes a centralized, transparent evaluation process through IQWiG and the Federal Joint Committee (FJC) to link a drug's price directly to its demonstrated clinical added value over existing therapies. The US lacks a single national body for health technology assessment, resulting in high price variance and limited leverage to tie cost directly to added clinical value.
 
@@ -134,5 +134,11 @@ Forum Post: Drug Pricing Reform – The German AMNOG System
 * **Strong Incentives for Genuine Innovation:** Drugs that demonstrate clear clinical improvement (major, considerable, or minor added benefit) receive positive assessments, placing manufacturers in a strong negotiating position to secure fair, profitable long-term prices.
 * **12-Month Unrestricted Launch Window:** The ability to sell at the manufacturer's chosen list price during the initial 12 months allows companies to establish immediate market presence, build patient volume, and generate revenue before negotiated prices take effect.
 * **Targeted Exits Reserved for Redundant Drugs:** Mass exits have not occurred because market withdrawal is primarily limited to drugs showing no clinical superiority over existing, cheaper alternatives. For truly innovative therapies, the financial returns within the German market remain sufficiently attractive to stay.
+
+<br> 
+<br>
+
+# Progress Page as Evidence of Completion
+
 
 
