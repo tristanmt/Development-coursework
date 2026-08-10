@@ -9,7 +9,7 @@ This repository contains my study notes, graphics, and practical takeaways from 
 
 | Course Title | Institution | Core Focus Areas |
 | :--- | :--- | :--- |
-| **Prescription Drug Regulation** | HarvardX | FDA Approval Pipelines, Expanded Access Frameworks, Biologics and Biosimilars |
+| **[Prescription Drug Regulation](01-drug-regulation-harvard)** | HarvardX | FDA Approval Pipelines, Expanded Access Frameworks, Biologics and Biosimilars |
 | **Introduction to Drug Discovery** | EPFLx | Computational Docking, Biophysical Methods (NMR, SPR), Lead Optimization |
 | **Principles of Biochemistry** | HarvardX | Protein Structure, Enzyme Kinetics, Cellular Metabolic Pathways |
 
