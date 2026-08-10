@@ -9,7 +9,7 @@ The six module course provided an introduction to the pharmaceutical market and 
 <br>
 
 
-## Focus Areas of Activities/Engagements
+## Focus Areas of Activities/Engagements ##
  * **FDA Approval Pathways:** Phase I–IV clinical trial requirements, NDA/BLA submissions, and safety monitoring.
  * **Patent & Regulatory Exclusivity:** Hatch-Waxman Act, generic drug entry, and IP protections.
  * **Expanded Access Policy:** Rules governing compassionate use for unapproved investigational drugs.
@@ -20,7 +20,7 @@ The six module course provided an introduction to the pharmaceutical market and 
 <br>
 <br>
 
-## Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients
+## Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients ##
 
 As a policymaker, the central challenge in designing an Expanded Access (Compassionate Use) program is balancing rapid relief for terminally or severely ill patients with the need to generate robust, scientific evidence through randomised clinical trials (RCTs). To strike this balance, I propose a regulatory framework based on four core features:
 
@@ -36,13 +36,13 @@ To avoid bureaucracy and delays for time-sensitive cases, the program would util
 4. Direct-Cost Caps & Transparency
 Pharma sponsors would be permitted to charge patients or insurers only for the at-cost manufacturing and handling of the drug, preventing predatory pricing while ensuring small biotech firms are not driven into financial deficit by providing compassionate supply.
 
-Final Discussion Post:
+# Final Discussion Post: # 
 The core issue is finding the right balance between giving patients the right to try medications that might save their lives and protecting them from the risks of untested, potentially harmful drugs. To manage this effectively, I propose a standardized, step-by-step process for the majority of cases: (1) verify that the patient has a life-threatening illness with no approved options remaining; (2) require the drug to have passed Phase 1 safety testing; (3) secure full informed consent through a fast-tracked ethics review; and (4) track patient outcomes in a registry without stalling the drug's primary clinical trial pipeline. Having this clear baseline procedure ensures requests are handled quickly, safely, and fairly, while keeping the framework flexible enough to adapt when unique or complex cases arise.
--
+
 ![Alternative Pathways to Drug Approval in the US explained, to be compared to my suggestion of a more balanced framework](./infographic.png)
 <br>
 <br>
-## FDA Approval Pathways in Comparison to Other Methods
+## FDA Approval Pathway Case Study: Desmopressin ##
 ![General Pathway of FDA approval required for any drug in the US](./approval-path.png)
 
 Following this approval pathway we can use a case study to understand the process from a basic practical point of view. The case study follows how an application to market a new drug is processed and what statistics have been collected and submitted for approval. Here are the principle details that have been submitted in the case study for the approval of a new nasal spray formulation of desmopressin. A drug used to treat patients with nocturne, the need to wake at night to urinate. 
