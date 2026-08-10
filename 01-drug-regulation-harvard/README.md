@@ -57,4 +57,39 @@ Following this approval pathway we can use a case study to understand the proces
 | **Exclusion Criteria** | • Uncontrolled diabetes mellitus or hypertension<br>• Congestive heart failure, nephrotic syndrome, or peripheral edema<br>• Polydipsia or obstructive sleep apnea<br>• History of urinary retention or neurogenic detrusor overactivity<br>• Severe lower urinary tract symptoms (BPH, overactive bladder, severe stress incontinence)<br>• Concomitant loop diuretics or glucocorticoids |
 | **Participant Demographics** | • **Total:** 1,707 patients with nocturnal polyuria (waking 2+ times/night)<br>• **Mean Age:** 66 years<br>• **Sex:** 57% Male<br>• **Race:** 78% Caucasian<br>• **Comorbidities:** 60% had one or more underlying causes identified |
 
+<br>
+
+<br>
+
+# Summary of Clinical Trial Findings (FDA Submission)
+
+📈 Primary Benefits & Efficacy
+
+| Metric | Findings & Group Comparison |
+| :--- | :--- |
+| **Episodes Per Night** | • **Baseline:** 3.3 episodes/night<br>• **Placebo:** Decreased to 2.1 episodes/night<br>• **High-Dose Desmopressin:** Decreased to 1.8 episodes/night<br>• *Low-dose showed similar results to placebo.* |
+| **≥ 50% Episode Reduction** | • **High-Dose Desmopressin:** 49% of patients achieved ≥50% reduction<br>• **Placebo:** 30% of patients achieved ≥50% reduction<br>• *Low-dose showed similar results to placebo.* |
+| **Time to First Episode** | • **High-Dose Desmopressin:** Average 108 minutes before first wake<br>• **Placebo:** Average 72 minutes before first wake (+36 min improvement) |
+| **Quality of Life (0–100 Scale)** | • **High-Dose Desmopressin:** Improved by ~14 points<br>• **Placebo:** Improved by ~12 points<br>• *No significant difference seen between low-dose and placebo.* |
+
+<br>
+
+⚠️ Safety Outcomes & Identified Risks
+
+| Risk / Safety Parameter | Observed Clinical Outcomes |
+| :--- | :--- |
+| **Overall Hyponatremia Risk** | • **Placebo:** 4.6% (mild)<br>• **Low-Dose Desmopressin:** 10.0% (mild, moderate, or severe)<br>• **High-Dose Desmopressin:** 14.0% (mild, moderate, or severe) |
+| **Severe Hyponatremia ($Na^+ \le 125\text{ mmol/L}$)** | • **High-Dose Desmopressin:** 5 patients<br>• **Low-Dose Desmopressin:** 0 patients<br>• **Placebo:** 1 patient |
+| **Mortality / Deaths** | • **High-Dose Desmopressin:** 5 deaths (3 unrelated, 2 unclear relationship)<br>• **Placebo:** 0 deaths |
+
+<br>
+Regulatory Analysis & FDA Non-Approval Rationale
+
+Despite demonstrating a statistically significant reduction in nightly voiding episodes at the higher dose, the benefit-risk profile for this desmopressin formulation presents severe safety barriers under FDA regulatory standards. 
+
+1. **Unfavorable Risk-Benefit Ratio:** The FDA must refuse NDA approval if the risk of disease or injury outweighs the drug's clinical benefit. While high-dose desmopressin delayed first-time nocturnal waking by an average of only 36 minutes over placebo, it caused a steep, dose-dependent rise in hyponatremia; increasing overall hyponatremia rates from **4.6% in placebo to 14.0%**, including **5 severe cases ($Na^+ \le 125\text{ mmol/L}$)** and **5 recorded deaths** in the treatment arm. 
+2. **Subpopulation Vulnerability:** Nocturia predominantly affects elderly patients (mean age 66 in trials), a demographic highly susceptible to hyponatremia-induced confusion, falls, fractures, and seizures. 
+3. **Efficacy Gaps in Lower Doses:** Attempts to mitigate toxicity using the lower dose resulted in efficacy outcomes that were virtually indistinguishable from placebo, eliminating a viable safe dosing window. 
+
+Consequently, given that nocturia is a non-life-threatening quality-of-life condition, the FDA regulatory panel would likely determine that the modest clinical benefit does not justify exposing patients to life-threatening electrolyte imbalances, leading to a **Complete Response Letter (CRL)** or requiring restrictive **REMS (Risk Evaluation and Mitigation Strategies)** and Boxed Warnings if approved.
 
