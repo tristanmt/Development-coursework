@@ -4,34 +4,26 @@
 ## Course Overview - ##
 The six module course provided an introduction to the pharmaceutical market and regulation standard present in the United States as well as other countries, under the Food and Drug Administration (FDA), IQWiG (Germany), and NICE (UK). The relevant pathways to drug approval were discussed in detail, including alternative pathways like Fast-track and the Orphan Drug Designation. Drug pricing and marketing was also detailed in depth during the course, providing a new perspective for me as Direct to Consumer Advertising (DTCA) was something I was particularly unfamiliar with. The course helped me to understand the approach of Post-Approval Monitoring by the FDA as well as how liability is largely placed on manufacturers of the drugs rather than the regulators themselves. A detailed module on special classes of drugs and diseases also challenged me, diving into biologics vs biosimilars and the areas of priority when it comes to neglected tropical diseases and cancer treatments.      
 --
-<br>
-<br>
-
-## Focus Areas of Activities/Engagements ##
- * **FDA Approval Pathways:** Phase I–IV clinical trial requirements, NDA/BLA submissions, and safety monitoring.
- * **Patent & Regulatory Exclusivity:** Hatch-Waxman Act, generic drug entry, and IP protections.
- * **Expanded Access Policy:** Rules governing compassionate use for unapproved investigational drugs.
- * **Pharmaceutical Economics:** Drug pricing mechanisms, market access, and reimbursement dynamics.
-
 
 <br>
 <br>
 
 # Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients 
+
 > **Case Focus:** Designing your own framework for an expanded access program that balances need for medication with safety issues
 
 As a policymaker, the central challenge in designing an Expanded Access (Compassionate Use) program is balancing rapid relief for terminally or severely ill patients with the need to generate robust, scientific evidence through randomised clinical trials (RCTs). To strike this balance, I propose a regulatory framework based on four core features:
 
-1. Phase I Safety Threshold 
+1. **Phase I Safety Threshold**
 To prevent patients from being exposed to outright toxic or ineffective compounds without baseline data, eligibility would require completion of initial Phase I safety/dosing trials. Additionally, to protect clinical trials, patients must be formally ineligible for, or unable to access, existing ongoing trials for that drug.
 
-2. "Safe Harbor" Real-World Data (RWD) Registry
+2. **"Safe Harbor" Real-World Data (RWD) Registry**
 Manufacturers often hesitate to grant expanded access out of fear that adverse events in very sick patients will delay FDA approval. My program would create a Safe Harbor Data Protocol: adverse events occurring in expanded access would be reviewed in context (accounting for baseline disease severity) so they don't automatically stop a primary clinical trial. At the same time standardised outcomes data would be logged in a national registry to inform future research.
 
-3. Fast-Track Centralized Review Board
+3. **Fast-Track Centralized Review Board**
 To avoid bureaucracy and delays for time-sensitive cases, the program would utilize a single, dedicated National Expanded Access Ethics Board operating under a 72-hour turnaround window for single-patient requests, eliminating redundant institutional review board (IRB) delays.
 
-4. Direct-Cost Caps & Transparency
+4. **Direct-Cost Caps & Transparency**
 Pharma sponsors would be permitted to charge patients or insurers only for the at-cost manufacturing and handling of the drug, preventing predatory pricing while ensuring small biotech firms are not driven into financial deficit by providing compassionate supply.
 
 Final Discussion Post: 
@@ -40,9 +32,9 @@ The core issue is finding the right balance between giving patients the right to
 
 ![Alternative Pathways to Drug Approval in the US explained, to be compared to my suggestion of a more balanced framework](./infographic.png)
 <br>
-<br>
 
 # FDA Approval Pathway Case Study: Desmopressin 
+
 > **Case focus:** Approval or rejection process of a proposed drug for the market
 ![General Pathway of FDA approval required for any drug in the US](./approval-path.png)
 
@@ -99,8 +91,7 @@ Consequently, given that nocturia is a non-life-threatening quality-of-life cond
 <br>
 <br>
 
-Practical Takeaway: International Drug Pricing Reform (Germany's AMNOG System) 
--
+# Practical Takeaway: International Drug Pricing Reform (Germany's AMNOG System) 
 
 > **Case Focus:** Evaluating Germany’s AMNOG framework (value-based pricing via IQWiG and G-BA) as a potential model for US prescription drug pricing reform.
 
