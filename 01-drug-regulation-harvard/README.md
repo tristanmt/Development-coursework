@@ -18,7 +18,7 @@ The six module course provided an introduction to the pharmaceutical market and 
 ## Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients
 
 As a policymaker, the central challenge in designing an Expanded Access (Compassionate Use) program is balancing rapid relief for terminally or severely ill patients with the need to generate robust, scientific evidence through randomised clinical trials (RCTs). To strike this balance, I propose a regulatory framework based on four core features:
--
+
 1. Phase I Safety Threshold 
 To prevent patients from being exposed to outright toxic or ineffective compounds without baseline data, eligibility would require completion of initial Phase I safety/dosing trials. Additionally, to protect clinical trials, patients must be formally ineligible for, or unable to access, existing ongoing trials for that drug.
 
