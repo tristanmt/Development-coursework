@@ -140,6 +140,15 @@ Forum Post: Drug Pricing Reform – The German AMNOG System
 
 # Progress Page as Evidence of Completion
 <br>
+
 <table>
-![Progress Page](./progress-page-2.png)(./progress-page-3.png)
+  <tr>
+    <td align="center" valign="top">
+      <img src="progress-page-2.png" alt="Progress Page 1" width="400"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="progress-page-3.png" alt="Progress Page 2" width="400"/>
+    </td>
+  </tr>
+</table>
 
