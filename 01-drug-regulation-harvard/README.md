@@ -110,7 +110,6 @@ Passed in 2011, the Pharmaceutical Market Restructuring Act (AMNOG) introduced f
 
 Discussion: Why Early Market Exit Fears Did Not Materialize
 -
-**Discussion Prompt:** *Why have initial fears that AMNOG would drive critical new drugs out of the German market largely failed to materialize?*
 
  1. **High Commercial Value of the German Market**
 Germany represents the largest pharmaceutical market in Europe. Completely opting out means forfeiting substantial revenue from over 73 million individuals covered by Statutory Health Insurance (SHI), making market withdrawal financially disadvantageous for most commercial sponsors.
@@ -123,7 +122,7 @@ While sponsors fear that a lower negotiated German price will depress internatio
 
 Forum Post: Drug Pricing Reform – The German AMNOG System
 -
-# Comparison with the US System
+***Comparison with the US System***
 * **Pricing Autonomy vs. Regulation:** In the US, drug manufacturers freely set list prices and negotiate private, fragmented rebates with individual insurers and Pharmacy Benefit Managers (PBMs). In Germany, while manufacturers can set the initial price freely during the first year, AMNOG mandates a formal comparative clinical assessment to determine price caps or negotiated rates thereafter.
 * **Value Assessment Framework:** Germany utilizes a centralized, transparent evaluation process through IQWiG and the Federal Joint Committee (FJC) to link a drug's price directly to its demonstrated clinical added value over existing therapies. The US lacks a single national body for health technology assessment, resulting in high price variance and limited leverage to tie cost directly to added clinical value.
 
