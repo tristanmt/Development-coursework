@@ -18,7 +18,7 @@ The six module course provided an introduction to the pharmaceutical market and 
 ## Designing a Balanced Expanded Access Framework: Protecting Integrity While Prioritising Patients
 
 As a policymaker, the central challenge in designing an Expanded Access (Compassionate Use) program is balancing rapid relief for terminally or severely ill patients with the need to generate robust, scientific evidence through randomised clinical trials (RCTs). To strike this balance, I propose a regulatory framework based on four core features:
-
+-
 1. Phase I Safety Threshold 
 To prevent patients from being exposed to outright toxic or ineffective compounds without baseline data, eligibility would require completion of initial Phase I safety/dosing trials. Additionally, to protect clinical trials, patients must be formally ineligible for, or unable to access, existing ongoing trials for that drug.
 
@@ -30,10 +30,10 @@ To avoid bureaucracy and delays for time-sensitive cases, the program would util
 
 4. Direct-Cost Caps & Transparency
 Pharma sponsors would be permitted to charge patients or insurers only for the at-cost manufacturing and handling of the drug, preventing predatory pricing while ensuring small biotech firms are not driven into financial deficit by providing compassionate supply.
-  
+
 Final Discussion Post:
 The core issue is finding the right balance between giving patients the right to try medications that might save their lives and protecting them from the risks of untested, potentially harmful drugs. To manage this effectively, I propose a standardized, step-by-step process for the majority of cases: (1) verify that the patient has a life-threatening illness with no approved options remaining; (2) require the drug to have passed Phase 1 safety testing; (3) secure full informed consent through a fast-tracked ethics review; and (4) track patient outcomes in a registry without stalling the drug's primary clinical trial pipeline. Having this clear baseline procedure ensures requests are handled quickly, safely, and fairly, while keeping the framework flexible enough to adapt when unique or complex cases arise.
-
+-
 ![Alternative Pathways to Drug Approval in the US explained, to be compared to my suggestion of a more balanced framework](./Fab_5_Infographic-3.pdf)
 
 ## FDA Approval Pathways in Comparison to Other Methods
