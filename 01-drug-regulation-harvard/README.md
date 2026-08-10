@@ -15,6 +15,7 @@ The six module course provided an introduction to the pharmaceutical market and 
   **Expanded Access Policy:** Rules governing compassionate use for unapproved investigational drugs.
   **Pharmaceutical Economics:** Drug pricing mechanisms, market access, and reimbursement dynamics.
 
+
 <br>
 <br>
 <br>
