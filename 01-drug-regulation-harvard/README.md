@@ -7,11 +7,17 @@ The six module course provided an introduction to the pharmaceutical market and 
 
 
 
-## 🎯 Focus Areas of Activities/Engagements
+
+
+## Focus Areas of Activities/Engagements
   **FDA Approval Pathways:** Phase I–IV clinical trial requirements, NDA/BLA submissions, and safety monitoring.
   **Patent & Regulatory Exclusivity:** Hatch-Waxman Act, generic drug entry, and IP protections.
   **Expanded Access Policy:** Rules governing compassionate use for unapproved investigational drugs.
   **Pharmaceutical Economics:** Drug pricing mechanisms, market access, and reimbursement dynamics.
+
+
+
+
 
 
 
