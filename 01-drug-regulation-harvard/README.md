@@ -123,7 +123,7 @@ While sponsors fear that a lower negotiated German price will depress internatio
 Forum Post: Drug Pricing Reform – The German AMNOG System
 -
 **Comparison with the US System**
-* **Pricing Autonomy vs. Regulation:** In the US, drug manufacturers freely set list prices and negotiate private, fragmented rebates with individual insurers and Pharmacy Benefit Managers (PBMs). In Germany, while manufacturers can set the initial price freely during the first year, AMNOG mandates a formal comparative clinical assessment to determine price caps or negotiated rates thereafter.
+* **Pricing Autonomy vs. Regulation:** In the US, drug manufacturers freely set list prices and negotiate privately with individual insurers and Pharmacy Benefit Managers (PBMs). In Germany, while manufacturers can set the initial price freely during the first year, AMNOG mandates a formal comparative clinical assessment to determine price caps or negotiated rates thereafter.
 * **Value Assessment Framework:** Germany utilizes a centralized, transparent evaluation process through IQWiG and the Federal Joint Committee (FJC) to link a drug's price directly to its demonstrated clinical added value over existing therapies. The US lacks a single national body for health technology assessment, resulting in high price variance and limited leverage to tie cost directly to added clinical value.
 
 **Potential Risks of the German System**
