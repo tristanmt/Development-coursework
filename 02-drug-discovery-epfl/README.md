@@ -27,7 +27,7 @@ Pharmacology- The study of interactions between living organisms and chemicals a
 * Response: Efficacy
 
 <br>
-Opioids are the classic example of binding affinity playing a major role in dosage and effects of drugs. Opioids bind to the same receptor but have largely different binding affinities causing different responses, this is most apparent in synthetic opioids that have a somewhat different structure to other members of the opioid family. 
+Opioids are the classic example of binding affinity playing a major role in dosage and effects of drugs. Opioids bind to the same receptor but have largely different binding affinities causing different responses, this is most apparent in fully synthetic opioids that have a somewhat different structure to members of the opiate family (naturally derived from the poppy plant). 
 
 ![Opioids structures](./opioids-family.png)
 
