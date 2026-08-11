@@ -44,7 +44,20 @@ An interesting journal article briefly mentioned in the course: "Allosteric targ
 Briefly, there are three main types of allosteric modulators: (allosteric ligands are structurally different to orthosteric ones and bind at a different site to modulate the properties of the orthosteric ligands)
 * **Affinity Modulators-** That alter the ortho binding site and kinetics of binding, therefore the binding affinity, without changing the signalling properties of the receptor
 * **Efficacy Modulators-** Which induce a change in the conformation of the receptor to alter the signalling ability of the orthosteric ligand with possible effects on the affinity
-* **Allosteric Agonists-** Or inverse agonists, which change the receptor signalling in the absence of an orthosteric ligand and alter the response of the receptor 
+* **Allosteric Agonists-** Or inverse agonists, which change the receptor signalling in the absence of an orthosteric ligand and alter the response of the receptor
+
+**The Hill Equation and Dissociation Constant
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="hill-eqn.png" width="400"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="dose-curve.png" width="400"/>
+    </td>
+  </tr>
+</table>
   
 
 
