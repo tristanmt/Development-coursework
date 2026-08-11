@@ -30,9 +30,12 @@ Pharmacology- The study of interactions between living organisms and chemicals a
 Opioids are the classic example of binding affinity playing a major role in dosage and effects of drugs. Opioids bind to the same receptor but have largely different binding affinities causing different responses, this is most apparent in fully synthetic opioids that have a somewhat different structure to members of the opiate family (naturally derived from the poppy plant). 
 
 ![Opioids structures](./opioids-family.png)
+
 <br>
 <br>
+
 An interesting journal article briefly mentioned in the course: "Allosteric targeting of receptor tyrosine kinases" piqued my interest, particularly sections on orthosteric vs allosteric receptor mechanisms as shown in the figure below:
+
 <br>
 ![Ortho vs Allo Mechanisms](./receptor-binding.png)
 
