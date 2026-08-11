@@ -46,7 +46,7 @@ Briefly, there are three main types of allosteric modulators: (allosteric ligand
 * **Efficacy Modulators-** Which induce a change in the conformation of the receptor to alter the signalling ability of the orthosteric ligand with possible effects on the affinity
 * **Allosteric Agonists-** Or inverse agonists, which change the receptor signalling in the absence of an orthosteric ligand and alter the response of the receptor
 
-**The Hill Equation and Dissociation Constant
+**The Hill Equation and Dissociation Constant**
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ Briefly, there are three main types of allosteric modulators: (allosteric ligand
   </tr>
 </table>
   
-
+The EC50, or half the maximum possible effective concentration, is a measure of drug potency and is used to determine the Hill Equation as shown above in the dose response curves. These curves give information and are useful tools to determine molecular information, the dissociation constant (KD), and a measure of potency/efficacy of a drug.  
 
 
 
