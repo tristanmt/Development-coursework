@@ -37,6 +37,7 @@ Opioids are the classic example of binding affinity playing a major role in dosa
 An interesting journal article briefly mentioned in the course: "Allosteric targeting of receptor tyrosine kinases" piqued my interest, particularly sections on orthosteric vs allosteric receptor mechanisms as shown in the figure below:
 
 <br>
+
 ![Ortho vs Allo Mechanisms](./receptor-binding.png)
 
 Briefly, there are three main types of allosteric modulators: (allosteric ligands are structurally different to orthosteric ones and bind at a different site to modulate the properties of the orthosteric ligands)
