@@ -15,8 +15,8 @@ Objectives
 * Introduction to and acquisition of basic knowledge of pharmacokinetics and toxicology
 * Introduction to and acquisition of basic knowledge of drug metabolism and phase I/II reactions
 <br>
-**Pharmacology-** The study of interactions between living organisms and chemicals affecting their physio-pathology
-
+***Pharmacology- The study of interactions between living organisms and chemicals affecting their physio-pathology***
+<br>
 **Pharmacokinetics:**
 * Administration
 * Absorption
