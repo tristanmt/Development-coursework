@@ -77,6 +77,17 @@ An example of CYP de/activation is shown below using the example of opioids once
 ![CYP De/activation](./cyp-example.png)
 <br>
 
+**Week 2: Drug Discovery and Computational Methods**
+---
+Objectives 
+-
+* Computational methods in drug discovery
+* Ligand-based drug discovery approaches 
+* Structure-based drug discovery approaches and molecular dynamics simulations
+<br>
+**Ligand based drug discovery**
+Quantitative Structure Activity Relationships (QSAR) are used to generate mathematical models to relate 
+
 
 
 
