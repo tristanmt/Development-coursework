@@ -72,8 +72,10 @@ The EC50, or half the maximum possible effective concentration, is a measure of 
 * 6 known CYP's can metabolise 90% of known drugs these are CYP's: 1A2, 2C9, 2C19, 2D6, 3A4, and 3A5.
 <br>
 An example of CYP de/activation is shown below using the example of opioids once again where codeine is partially converted (c.a. 10%) to morphine. Several other conversions are shown which can be facilitated using other enzymes. 
-[CYP De/activation](./cyp-example.png)
 <br>
+
+[CYP De/activation](./cyp-example.png)
+
 
 
 
