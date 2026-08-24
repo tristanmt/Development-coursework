@@ -70,10 +70,13 @@ The EC50, or half the maximum possible effective concentration, is a measure of 
 * Cytochromes P450 (P450's or CYP's) - A group of >50 Heme-containing enzymes that mostly act in the liver, specifically hepatocyte intracellular structures called microsomes. The name comes from the presence of iron making the structures sensitive to CO and therefore the enzymes develop absorbance at 450 nm becoming coloured. 
 * Enzymes are typically used within the body to detoxify harmful compounds known typically as xenobiotics, however perhaps more usefully they also act upon drugs.
 * 6 known CYP's can metabolise 90% of known drugs these are CYP's: 1A2, 2C9, 2C19, 2D6, 3A4, and 3A5.
+  
 An example of CYP de/activation is shown below using the example of opioids once again where codeine is partially converted (c.a. 10%) to morphine. Several other conversions are shown which can be facilitated using other enzymes. 
 <br>
 
 ![CYP De/activation](./cyp-example.png)
+<br>
+
 
 
 
