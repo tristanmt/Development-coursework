@@ -62,7 +62,19 @@ Briefly, there are three main types of allosteric modulators: (allosteric ligand
 The EC50, or half the maximum possible effective concentration, is a measure of drug potency and is used to determine the Hill Equation as shown above in the dose response curves. These curves give information and are useful tools to determine molecular information, the dissociation constant (KD), and a measure of potency/efficacy of a drug.  
 
 **Administration**
+<br>
 ![Oral Administration](./oral-admin.png)
+<br>
+* Cytochromes P450 (P450's or CYP's) - A group of >50 Heme-containing enzymes that mostly act in the liver, specifically hepatocyte intracellular structures called microsomes. The name comes from the presence of iron making the structures sensitive to CO and therefore the enzymes develop absorbance at 450 nm becoming coloured. 
+* Enzymes are typically used within the body to detoxify harmful compounds known typically as xenobiotics, however perhaps more usefully they also act upon drugs.
+* 6 known CYP's can metabolise 90% of known drugs these are CYP's: 1A2, 2C9, 2C19, 2D6, 3A4, and 3A5.
+<br>
+An example of CYP de/activation is shown below:
+<br>
+[CYP De/activation](
+
+
+
 
 
 
