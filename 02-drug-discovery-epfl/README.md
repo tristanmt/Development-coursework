@@ -71,7 +71,8 @@ The EC50, or half the maximum possible effective concentration, is a measure of 
 <br>
 An example of CYP de/activation is shown below:
 <br>
-[CYP De/activation](
+[CYP De/activation](./cyp-example)
+
 
 
 
