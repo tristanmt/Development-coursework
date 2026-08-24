@@ -61,6 +61,9 @@ Briefly, there are three main types of allosteric modulators: (allosteric ligand
   
 The EC50, or half the maximum possible effective concentration, is a measure of drug potency and is used to determine the Hill Equation as shown above in the dose response curves. These curves give information and are useful tools to determine molecular information, the dissociation constant (KD), and a measure of potency/efficacy of a drug.  
 
+**Administration**
+
+
 
 
 
