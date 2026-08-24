@@ -63,7 +63,7 @@ The EC50, or half the maximum possible effective concentration, is a measure of 
 
 **Administration**
 <br>
-![Oral Administration](./oral-admin.png)
+![Oral Administration](./overview-admin.png)
 <br>
 * Cytochromes P450 (P450's or CYP's) - A group of >50 Heme-containing enzymes that mostly act in the liver, specifically hepatocyte intracellular structures called microsomes. The name comes from the presence of iron making the structures sensitive to CO and therefore the enzymes develop absorbance at 450 nm becoming coloured. 
 * Enzymes are typically used within the body to detoxify harmful compounds known typically as xenobiotics, however perhaps more usefully they also act upon drugs.
