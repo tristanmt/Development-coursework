@@ -2,7 +2,7 @@
 # Professional Development & Online Coursework
 
 This repository showcases my study notes, independent reading, and practical takeaways from coursework completed via edX to complement my Chemistry background. 
-Please find below my completed courses with hyperlinks to their respective folders as well as some highlights that I have worked on. 
+Please find below my completed courses with hyperlinks to their respective folders as well as some highlights of independent projects that I have worked on. 
 
 ---
 
