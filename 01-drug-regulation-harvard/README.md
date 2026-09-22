@@ -94,7 +94,7 @@ Consequently, given that nocturia is a non-life-threatening quality-of-life cond
 
 # Practical Takeaway: International Drug Pricing Reform (Germany's AMNOG System) 
 
-> **Case Focus:** Evaluating Germany’s AMNOG framework (value-based pricing via IQWiG and G-BA) as a potential model for US prescription drug pricing reform.
+> **Case Focus:** Evaluating Germany’s AMNOG framework (value-based pricing via IQWiG and G-BA) as a potential model for US and international prescription drug pricing reform.
 
 ### Overview of the German AMNOG Process
 Passed in 2011, the Pharmaceutical Market Restructuring Act (AMNOG) introduced formal value-based price regulation for newly approved brand-name drugs in Germany:
