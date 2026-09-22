@@ -17,6 +17,6 @@ Please find below my completed courses with hyperlinks to their respective folde
 
 ## Key Highlights & Portfolio Samples
 
-* **[Germany's AMNOG System](./03-harvardx-drug-regulation/expanded-access-framework.md):** A policy proposal balancing Phase I safety data against compassionate access for terminally ill patients.
+* **[Germany's AMNOG System and Pricing Reforms](https://github.com/tristanmt/Development-coursework/blob/main/01-drug-regulation-harvard/README.md#practical-takeaway-international-drug-pricing-reform-germanys-amnog-system):** A look into Germany's 2011 Medicines Market Reorganisation Act (Arzneimittelmarktneuordnungsgesetz)
 * **[EPFLx Drug Discovery Summary](./01-epflx-drug-discovery/README.md):** Overview of virtual screening methodologies and target binding kinetics.
 
