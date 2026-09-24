@@ -11,7 +11,7 @@ Please find below my completed courses with hyperlinks to their respective folde
 | Course Title | Institution | Core Focus Areas |
 | :--- | :--- | :--- |
 | **[Prescription Drug Regulation](01-drug-regulation-harvard)** | HarvardX | Drug Approval Pipelines, Expanded Access Frameworks, Biologics and Biosimilars |
-| **[Introduction to Drug Discovery](02-drug-discovery-epfl)** | EPFLx | Computational Docking, Biophysical Methods (NMR, SPR), Lead Optimization |
+| **[Introduction to Drug Discovery](02-drug-discovery-epfl)** | EPFLx | Computational Docking, Biophysical Methods, Lead Optimization |
 
 ---
 
