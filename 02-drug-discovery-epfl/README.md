@@ -35,7 +35,8 @@ Opioids are the classic example of binding affinity playing a major role in dosa
 <br>
 <br>
 
-An interesting journal article briefly mentioned in the course: "Allosteric targeting of receptor tyrosine kinases" (F. De Smet, A. Christopoulos, P. Carmeliet, Allosteric targeting of receptor tyrosine kinases, Nat. Biotech., 2014) piqued my interest, particularly sections on orthosteric vs allosteric receptor mechanisms as shown in the figure below:
+**Journal Article Review**
+An interesting paper briefly mentioned in the course: "Allosteric targeting of receptor tyrosine kinases" (F. De Smet, A. Christopoulos, P. Carmeliet, Allosteric targeting of receptor tyrosine kinases, Nat. Biotech., 2014) piqued my interest, particularly sections on orthosteric vs allosteric receptor mechanisms as shown in the figure below:
 
 <br>
 
