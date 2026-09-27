@@ -35,7 +35,7 @@ Opioids are the classic example of binding affinity playing a major role in dosa
 <br>
 <br>
 
-An interesting journal article briefly mentioned in the course: "Allosteric targeting of receptor tyrosine kinases" piqued my interest, particularly sections on orthosteric vs allosteric receptor mechanisms as shown in the figure below:
+An interesting journal article briefly mentioned in the course: "Allosteric targeting of receptor tyrosine kinases" (F. De Smet, A. Christopoulos, P. Carmeliet, Allosteric targeting of receptor tyrosine kinases, Nat. Biotech., 2014) piqued my interest, particularly sections on orthosteric vs allosteric receptor mechanisms as shown in the figure below:
 
 <br>
 
@@ -45,6 +45,13 @@ Briefly, there are three main types of allosteric modulators: (allosteric ligand
 * **Affinity Modulators-** That alter the ortho binding site and kinetics of binding, therefore the binding affinity, without changing the signalling properties of the receptor
 * **Efficacy Modulators-** Which induce a change in the conformation of the receptor to alter the signalling ability of the orthosteric ligand with possible effects on the affinity
 * **Allosteric Agonists-** Or inverse agonists, which change the receptor signalling in the absence of an orthosteric ligand and alter the response of the receptor
+
+<br> 
+Advantages of Allosteric Receptor Modulation:
+
+* **Selectivity Increase-** Allosterics usually only bind to one receptor compound, and no effect occurring when bound to a receptor subtype that is not of interest
+* **Use in Saturating Doses-** The effective dose of an allosteric drug reaches a saturable (ceiling) level, and once every receptor is ligated there is no additional effect even in the presence of higher concentrations of the allosteric modulator
+* **Biased Agonism/Antagonism-** Particular pathways can be favoured or inhibited which offers a therapeutic advantage, "because a key pathway promoting the progression of a particular disease could be blocked whereas other pathways that are necessary for homeostatic maintenance are not affected"
 
 **The Hill Equation and Dissociation Constant**
 
